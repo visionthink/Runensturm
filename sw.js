@@ -1,6 +1,6 @@
 // Nur Runensturm-Dateien speichern; andere Apps auf derselben Domain bleiben getrennt.
 const CACHE_PREFIX = 'runensturm-';
-const CACHE = CACHE_PREFIX + 'v1';
+const CACHE = CACHE_PREFIX + 'v2';
 const ROOT = new URL('./', self.location.href);
 const APP_SHELL = ['index.html', 'manifest.webmanifest', 'icon-192.png',
   'icon-512.png', 'icon-maskable-512.png'].map(path => new URL(path, ROOT).href);
