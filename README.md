@@ -4,6 +4,10 @@ Ein Elementzauber-Spiel fürs Tablet (läuft direkt im Browser, am besten im Que
 
 **Spielen:** https://visionthink.github.io/runensturm/
 
+## Welten
+- **Welt 1 – Lichtung:** offene Waldlichtung zum Einstieg
+- **Welt 2 – Flusstal:** Landschaft mit Fluss, Steinbrücke, Felswand, Findlingen und Kiefern. Im Fluss werden alle nass, Felsen und Bäume geben Deckung.
+
 ## So geht's
 - **Links ziehen:** laufen
 - **Elemente antippen:** bis zu drei Elemente zu einem Zauber mischen (31 Zauber im Zauberbuch)
