@@ -2,7 +2,7 @@
 
 Ein Elementzauber-Spiel fürs Tablet (läuft direkt im Browser, am besten im Querformat).
 
-**Spielen:** https://visionthink.github.io/Runensturm/
+**Spielen:** https://visionthink.github.io/Runensturm/app/
 
 ## Welten
 - **Welt 1 – Lichtung:** offene Waldlichtung zum Einstieg
@@ -18,4 +18,4 @@ Tipps: Nasse Gegner trifft der Blitz doppelt. Nass + Frost friert sofort ein. Er
 
 Am Rechner: WASD/Pfeiltasten, Maus zum Zielen, Tasten 1–6 für Elemente, Leertaste für Nova.
 
-Das ganze Spiel steckt in einer einzigen Datei: `index.html`.
+Das ganze Spiel steckt in einer einzigen Datei: `app/index.html`.
