@@ -2,7 +2,7 @@
 
 Ein Elementzauber-Spiel fürs Tablet (läuft direkt im Browser, am besten im Querformat).
 
-**Spielen:** https://visionthink.github.io/runensturm/
+**Spielen:** https://visionthink.github.io/Runensturm/
 
 ## Welten
 - **Welt 1 – Lichtung:** offene Waldlichtung zum Einstieg
